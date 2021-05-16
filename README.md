@@ -1,12 +1,13 @@
 ### ¡Hola a todos! 👋
-Me encanta programar, casi parece magia.
+Me encanta programar, casi parece como hacer magia.
 He trabajado con estas tecnologías:
 - Primefaces
 - JavaScript ES6
 - CSS3
 - HTML 5
 - Java 8
-- Laravel/Php
+- Laravel ( >= 6.14)
+- PHP ( >= 7 )
 
 Actualmente trabajo como desarrollador de Back-End, en Java Primefaces. Con XHTML en el front-end y de vez en cuando algo de Angular.
 
