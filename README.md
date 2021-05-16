@@ -1,4 +1,14 @@
-### Hi there 👋
+### ¡Hola a todos! 👋
+Me encanta programar, casi parece magia.
+He trabajado con estas tecnologías:
+- Primefaces
+- JavaScript ES6
+- CSS3
+- HTML 5
+- Java 8
+- Laravel/Php
+
+Actualmente trabajo como desarrollador de Back-End, en Java Primefaces. Con XHTML en el front-end y de vez en cuando algo de Angular.
 
 <!--
 **JuanRobles2164/JuanRobles2164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
