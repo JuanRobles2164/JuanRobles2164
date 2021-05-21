@@ -9,7 +9,7 @@ He trabajado con estas tecnologías:
 - Laravel ( >= 6.14)
 - PHP ( >= 7 )
 
-Actualmente trabajo como desarrollador de Back-End, en Java Primefaces. Con XHTML en el front-end y de vez en cuando algo de Angular.
+Actualmente trabajo como desarrollador de Back-End, en Java. Con Primefaces XHTML en el front-end y de vez en cuando algo de Angular.
 
 <!--
 **JuanRobles2164/JuanRobles2164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
