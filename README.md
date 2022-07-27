@@ -6,7 +6,7 @@ He trabajado con estas tecnologías:
 - CSS3
 - HTML 5
 - Java 8
-- Laravel ( >= 6.14)
+- Laravel ( >= 8)
 - PHP ( >= 7 )
 
 <!--
