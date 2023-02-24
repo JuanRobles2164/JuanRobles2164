@@ -8,6 +8,7 @@ He trabajado con estas tecnologías:
 - Java 8
 - Laravel ( >= 8)
 - PHP ( >= 7 )
+- .NET y .NET Core
 
 <!--
 **JuanRobles2164/JuanRobles2164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
